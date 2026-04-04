@@ -1,8 +1,8 @@
-💼 Frontend Developer Portfolio
+### 💼 Frontend Developer Portfolio
 
-🌐 Demo
+## 🌐 Demo
 🔗 Ver portafolio en línea:
-👉 
+👉 https://javieraloy.github.io/Portafolio/#/
 
 -------------
 
@@ -45,7 +45,7 @@ El enfoque principal está en la creación de una interfaz moderna, interactiva 
 
 1️⃣ Clonar el repositorio:
 
-git clone 
+git clone https://github.com/JavieraLoy/Portafolio
 
 2️⃣ Entrar al proyecto:
 
@@ -65,7 +65,7 @@ http://localhost:5173
 
 🔗 Repositorio
 
-Repositorio público:
+• Repositorio público: https://github.com/JavieraLoy/Portafolio
 
 -----------
 
