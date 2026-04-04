@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "CloudSync Weather App",
+    "description": "CloudSync es una aplicación web desarrollada con Vue 3 que permite consultar el clima en distintas ciudades de Chile en tiempo real, utilizando la API pública de OpenWeather.",
+    "image": "img/cloudsync.png",
+    "repo": "https://github.com/JavieraLoy/cloudsync-vue-weather",
+    "demo": "https://...",
+    "tags": ["Vue 3", "Axios", "OpenWeather API"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Daily Habit Tracker",
+    "description": "Daily Habit Tracker es un mini-proyecto enfocado en el dominio de la reactividad, la gestión de estados locales y la persistencia de datos. Es una herramienta ligera y funcional para el seguimiento de hábitos diarios.",
+    "image": "img/dailyhabit.png",
+    "repo": "https://github.com/JavieraLoy/Daily-Habit-Tracker-Check-it-",
+    "demo": "https://javieraloy.github.io/Daily-Habit-Tracker-Check-it-/",
+    "tags": ["Vue 3", "JavaScript", "CSS"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Coffee Shop",
+    "description": "Coffee Shop es un mini e-commerce de cafetería desarrollado con Vue 3, enfocado en la comunicación entre componentes mediante Props y Emits, gestión de estado reactivo y experiencia de usuario interactiva.",
+    "image": "img/coffeeshop.png",
+    "repo": "https://github.com/JavieraLoy/Coffe-shop/tree/main/proyecto-ecommerce",
+    "demo": "https://javieraloy.github.io/Coffe-shop/",
+    "tags": ["Vue 3"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "ConnectMovie",
+    "description": "ConnectMovie es una mini aplicación web de búsqueda de películas desarrollada con Vue 3, que consume la API de OMDb para mostrar información en tiempo real. Proyecto enfocado en consumo de APIs externas y arquitectura basada en componentes en Vue 3.",
+    "image": "img/connectmovie.png",
+    "repo": "https://github.com/JavieraLoy/ConnectMovie",
+    "demo": "https://javieraloy.github.io/ConnectMovie/",
+    "tags": ["Vue 3", "API OMDb"],
+    "featured": true
+  }
+]
